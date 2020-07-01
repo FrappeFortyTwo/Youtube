@@ -1,0 +1,800 @@
+{ Design }
+
+Sound Design   ,1,1000
+
+Graphic Design ,780,2919500
+Graphic Design ,  1,   1000
+Graphic Design ,  1,   2000
+Graphic Design ,  1,   8000
+Graphic Design ,  1,   1500
+Graphic Design ,  1,   1000
+Graphic Design ,  1,   3000
+Graphic Design ,  2,   8000
+Graphic Design ,  1,   5000
+
+Illustration , 1,  7000
+Illustration , 1,  1000
+Illustration , 1,  5000
+Illustration , 2, 20000
+Illustration , 1,  1000
+Illustration , 1,  5000
+Illustration , 1,  3500
+Illustration , 3, 14000
+
+3D Design , 1,  1500
+3D Design , 1,  2000
+3D Design , 1, 15000
+3D Design , 1,  2000
+3D Design , 1,  5000
+3D Design , 2,  4000
+3D Design , 1,  1000
+3D Design , 1,  5000
+
+UI/UX Design , 3,  22000
+UI/UX Design ,56, 317000
+UI/UX Design , 1,   4500
+UI/UX Design , 2,   7000
+UI/UX Design , 1,  12000
+UI/UX Design , 1,   3000
+UI/UX Design , 1,   1000
+UI/UX Design , 1,   8000
+UI/UX Design , 1,   1000
+UI/UX Design , 1,    200
+UI/UX Design , 4,  11000
+UX/UI Design ,16,  83500
+UI/UX Design , 1,   4000
+UI/UX Design , 1,   1500
+UI/UX Design , 1,   4000
+
+Jewellery Design , 1,  1500
+Jewellery Design , 1, 10000
+Jewellery Design , 1,  5000
+
+Industrial Design , 1, 10000
+Industrial Design , 1, 15000
+Industrial Design , 1, 10000
+
+Fashion Design , 8, 12500
+
+Architecture Design  , 1, 5000
+Architecture Design  , 1, 2000
+Architectural Design , 1, 3000
+Architectural Design , 1, 4000
+
+Instructional Designing , 1, 15000
+Instructional Designing , 1, 10000
+
+{ Law/Legal }
+
+Law/ Legal ,38,119500
+Law/ Legal , 6,  5500
+Law/ Legal , 1,  3000
+
+{ Development }
+
+iot ,1,5000
+iot ,1,1000
+iot ,1,5000
+iot ,1,5000
+iot ,1,1500
+iot ,1,3000
+iot ,1,5000
+iot ,1,10000
+iot ,1,1000
+iot ,6,34000
+iot ,1,4000
+iot ,1,1000
+
+App Dev ,1,7000
+App Dev ,1,10000
+App Dev ,1,10000
+App Dev ,1,1000
+App Dev ,315,1770000
+App Dev ,22,136500
+App Dev ,15,112500
+App Dev ,9,76500
+App Dev ,1,25000
+App Dev ,1,20000
+App Dev ,1,20000
+App Dev ,2,19000
+App Dev ,1,200
+App Dev ,2,8000
+App Dev ,1,4000
+App Dev ,1,3000
+App Dev ,1,10000
+App Dev ,3,16000
+App Dev ,1,8000
+App Dev ,2,11000
+App Dev ,1,1000
+App Dev ,1,6000
+App Dev ,1,35000
+App Dev ,1,8000
+
+Web Dev ,1,7000
+Web Dev ,1,2000
+Web Dev ,1,8000
+Web Dev ,1,3000
+Web Dev ,4,17000
+Web Dev ,1,6000
+Web Dev ,1,1500
+Web Dev ,1,9000
+Web Dev ,1,1000
+Web Dev ,1,2000
+Web Dev ,1,2000
+Web Dev ,747,3963600
+Web Dev ,32,220500
+Web Dev ,3,21000
+Web Dev ,3,12000
+Web Dev ,3,1000
+Web Dev ,19,125000
+Web Dev ,4,26500
+Web Dev ,3,30000
+Web Dev ,1,250
+Web Dev ,7,28000
+Web Dev ,1,5000
+Web Dev ,2,10000
+Web Dev ,5,18000
+Web Dev ,3,19000
+Web Dev ,1,1000
+Web Dev ,1,20000
+Web Dev ,3,5000
+Web Dev ,1,5000
+Web Dev ,1,7000
+Web Dev ,1,5000
+Web Dev ,1,10000
+Web Dev ,1,2000
+Web Dev ,1,12000
+Web Dev ,2,5000
+Web Dev ,6,27000
+Web Dev ,1,2000
+Web Dev ,1,5000
+Web Dev ,1,1000
+Web Dev ,1,2000
+Web Dev ,2,24000
+Web Dev ,1,20000
+Web Dev ,1,5000
+Web Dev ,2,6000
+Web Dev ,1,2000
+Web Dev ,1,2000
+
+Data Science ,7,33500
+Data Science ,1,5000
+Data Science ,2,9000
+Data Science ,1,15000
+Data Science ,1,30000
+Data Science ,1,1000
+Data Science ,1,2000
+Data Science ,2,6000
+Data Science ,1,1000
+Data Science ,1,1500
+Data Science ,1,2500
+Data Science ,1,1000
+Data Science ,1,7000
+Data Science ,1,3000
+Data Science ,1,1000
+Data Science ,1,20000
+Data Science ,1,3000
+Data Science ,3,21000
+Data Science ,1,2000
+Data Science ,1,3000
+Data Science ,1,7000
+Data Science ,16,98000
+Data Science ,2,10000
+Data Science  2,2000
+Data Science ,1,4000
+Data Science ,14,66000
+Data Science ,2,6000
+Data Science ,18,125500
+Data Science ,2,2500
+Data Science ,1,11500
+Data Science ,1,2000
+Data Science ,1,15000
+Data Science ,1,10000
+Data Science ,1,2000
+Data Science ,1,5000
+Data Science ,1,5000
+Data Science ,1,10000
+
+IT ,3,17000
+IT ,1,7000
+IT ,3,2000
+IT ,1,5000
+IT ,1,5000
+IT ,1,4500
+IT ,1,3000
+IT ,1,10000
+IT ,1,8000
+IT ,4,12000
+IT ,1,8000
+IT ,1,10500
+IT ,1,1000
+IT ,1,2000
+IT ,3,21000
+IT ,1,5000
+IT ,1,2500
+IT ,1,5000
+IT ,1,2000
+IT ,1,10000
+IT ,1,6500
+IT ,1,5000
+IT ,1,5000
+IT ,1,2000
+IT ,1,5000
+IT ,1,10000
+IT ,1,10000
+IT ,1,6000
+IT ,2,7500
+IT ,1,1000
+IT ,1,1000
+IT ,1,3000
+IT ,4,19000
+IT ,1,5000
+IT ,2,11000
+IT ,2,7000
+IT ,1,4000
+IT ,1,6000
+IT ,1,7000
+IT ,1,5000
+IT ,1,3000
+IT ,1,5000
+IT ,1,1000
+IT ,3,4000
+IT ,1,1000
+IT ,1,1000
+IT ,1,3000
+IT ,1,1000
+IT ,1,14000
+IT ,1,10000
+IT ,1,10000
+IT ,1,13000
+IT ,1,3000
+IT ,1,20000
+IT ,1,1000
+IT ,1,10000
+IT ,1,2000
+IT ,1,5000
+IT ,1,1000
+IT ,1,8000
+IT ,1,1000
+IT ,1,7000
+IT ,1,5500
+IT ,1,12000
+IT ,1,1000
+IT ,1,4000
+IT ,1,1000
+IT ,1,1000
+IT ,2,10000
+IT ,1,5000
+IT ,1,8000
+IT ,1,3000
+IT ,1,5000
+IT ,1,10000
+IT ,1,3000
+IT ,1,8000
+IT ,1,2000
+IT ,1,5000
+IT ,1,10000
+IT ,1,5000
+IT ,26,176500
+IT ,3,11700
+IT ,17,86500
+IT ,17,67500
+IT ,2,11000
+IT ,1,2500
+IT ,1,10000
+IT ,18,112500
+IT ,1,6000
+IT ,1,15000
+IT ,1,1000
+IT ,1,2000
+IT ,2,20000
+IT ,1,10000
+IT ,1,6500
+IT ,1,5000
+IT ,1,5000
+IT ,7,18500
+IT ,2,20000
+IT ,2,6000
+IT ,1,1000
+IT ,1,10000
+IT ,1,5000
+IT ,6,48000
+IT ,1,10000
+IT ,1,10000
+
+{ Research }
+
+Research  ,1,2000
+Research  ,2,1000
+Research  ,1,1000
+Research  ,1,3000
+Research  ,2,9500
+Research  ,1,6000
+Research  ,4,21000
+Research  ,1,2500
+Research  ,1,1000
+Research  ,2,12000
+Research  ,1,2000
+Research  ,1,3000
+Research  ,1,10000
+Research  ,1,4000
+Research  ,6,15000
+Research  ,10,33500
+Research  ,1,10000
+Research  ,1,3000
+Research  ,1,1000
+Research  ,1,16667
+Research  ,1,12000
+Research  ,2,2000
+Research  ,1,1000
+Research  ,1,3000
+Research  ,1,2500
+Research  ,1,1000
+Research  ,1,2000
+Research  ,2,8000
+Research  ,1,6000
+Research  ,1,6000
+Research  ,1,2000
+Research  ,1,5000
+Research  ,1,5000
+Research  ,1,5000
+Research  ,1,4000
+Research  ,1,3000
+Research  ,1,5000
+Research  ,1,2000
+Research  ,9,93500
+Research  ,1,2000
+Research  ,1,3000
+Research  ,1,20000
+Research  ,1,5000
+Research  ,1,2000
+Research  ,1,5000
+Research  ,1,4000
+Research  ,2,2000
+
+{ Marketing }
+
+Marketing ,291,   1118998
+Marketing ,1,        1000
+Marketing ,2,        5000
+Marketing ,1,        1000
+Marketing ,1,        2000
+Marketing ,1,        5000
+Marketing ,1,        6000
+Marketing ,1,       10000
+Marketing ,1,       15000
+Marketing ,2,       20000
+Marketing ,633,   2085403
+Marketing ,513,   2157400
+Marketing ,5,       23000
+Marketing ,8,       31500
+Marketing ,1,        1000
+Marketing ,1,        3000
+Marketing ,1,        1000
+Marketing ,2,        1000
+Marketing ,1,       10000
+Marketing ,3,        9000
+Marketing ,1,        2000
+Marketing ,1,        5000
+Marketing ,2,       21000
+Marketing ,1,        7500
+Marketing ,1,        7000
+Marketing ,2,        6000
+Marketing ,2,        3000
+Marketing ,1,        3000
+Marketing ,1,        5000
+Marketing ,1,        2000
+Marketing ,1,        5000
+Marketing ,1,        3000
+Marketing ,4,       18000
+Marketing ,1,        5000
+Marketing ,1,        1000
+Marketing ,1,        1000
+Marketing ,1,        4000
+Marketing ,4,        31000
+Marketing ,2,        2000
+Marketing ,1,        1000
+Marketing ,2,        6000
+Marketing ,1,        1000
+Marketing ,1,        4000
+Marketing ,1,        1000
+Marketing ,1,        1000
+Marketing ,2,        7000
+Marketing ,5,        11000
+Marketing ,1,        4000
+Marketing ,1,        2000
+Marketing ,1,        5000
+Marketing ,1,        5000
+Marketing ,1,        7500
+Marketing ,1,        1000
+Marketing ,1,        1000
+Marketing ,1,        2000
+Marketing ,64,     206500
+Marketing ,1,        2000
+Marketing ,2,        7000
+Marketing ,23,      76000
+Marketing ,14,      41000
+Marketing ,1,        8000
+Marketing ,1,        1000
+Marketing ,1,        3000
+Marketing ,1,        1000
+Marketing ,1,        1000
+
+{ Human Resources ,160, 545700 }
+
+{ Business Development ,867 ,3796700 }
+
+{ TeleCalling }
+
+TeleCalling ,1,15000
+TeleCalling ,1,1000
+TeleCalling ,1,2000
+TeleCalling  ,2,8000
+TeleCalling ,3,22000
+TeleCalling ,1,150
+TeleCalling  ,1,5000
+TeleCalling ,1,5000
+TeleCalling ,19,125500
+TeleCalling ,1,3000
+Telecalling ,41,159500
+TeleCalling ,1,4000
+TeleCalling ,1,5000
+TeleCalling,1,20000
+TeleCalling ,1,5000
+TeleCalling ,1,3000
+TeleCalling  ,1,15000
+TeleCalling ,2,4000
+TeleCalling ,3,13000
+TeleCalling ,1,3000
+TeleCalling ,1,10000
+TeleCalling ,1,3000
+TeleCalling ,1,2000
+TeleCalling ,1,1000
+TeleCalling ,1,2000
+TeleCalling ,1,2000
+TeleCalling ,1,8000
+TeleCalling ,1,1000
+TeleCalling ,1,5000
+TeleCalling ,1,1000
+TeleCalling ,1,5000
+TeleCalling  ,2,5500
+TeleCalling ,1,5000
+TeleCalling,1,7000
+TeleCalling ,2,6000
+TeleCalling ,2,10000
+TeleCalling ,1,1000
+TeleCalling ,1,10000
+TeleCalling ,1,1500
+TeleCalling ,1,1000
+TeleCalling ,1,5000
+TeleCalling ,1,6000
+TeleCalling ,1,20000
+
+{ Content Creation }
+
+Content  ,1, 10000
+Content  ,1,  3000
+Content  ,1,  1000
+Content  ,1,  4000
+Content  ,1,  1000
+Content  ,1,  2500
+Content  ,1,  8000
+Content  ,1,  5000
+Content  ,1,  2000
+Content  ,1,  3000
+Content  ,1,  3000
+Content  ,1,  3000
+Content  ,1,  1000
+Content  ,1,  5000
+Content  ,1,  4000
+Content  ,1,  1000
+Content  ,1,  1000
+Content  ,1,  2000
+Content  ,1,  1000
+Content  ,1,  3000
+Content  ,1,  2000
+Content  ,1,  5000
+Content  ,1, 10000
+Content  ,1,  3000
+Content  ,1,  5000
+Content  ,1,  1000
+Content  ,1,  1500
+Content  ,1,  5000
+Content  ,2,  3500
+Content  ,1,  1000
+Content  ,30,226500
+Content  ,5 , 15000
+Content  ,1,  3000
+Content  ,20,98500
+Content  ,1,  3000
+Content  ,1,  1500
+Content  ,1,  5000
+Content  ,1,  5000
+Content  ,1,  8000
+Content  ,2, 12000
+Content  ,1,  4000
+Content  ,1,  2000
+Content  ,1,  2000
+Content  ,1,  3000
+Content  ,1,  1000
+Content  ,1,  1000
+Content  ,4,  8600
+Content  ,1,  1600
+Content  ,3, 12000
+Content  ,974,3301240
+Content  ,1,  7000
+Content  ,1,  2000
+Content  ,1,  2000
+Content  ,1,  1500
+Content  ,5, 14000
+Content  ,20,61500
+Content  ,2,  4000
+Content  ,5, 26000
+Content  ,1,  2000
+Content  ,1,  5000
+Content  ,1,  3000
+Content  ,1,  2000
+Content  ,1,  1500
+Content  ,1,  2000
+Content  ,1,  6000
+Content  ,4, 17000
+Content  ,1,  2000
+Content  ,1,  6000
+Content  ,1,  1000
+Content  ,1, 10000
+Content  ,1,  1500
+Content  ,1,  1000
+Content  ,1,  4000
+Content  ,1,  1000
+Content  ,1,  2000
+Content  ,1, 10000
+Content  ,1,  6000
+Content  ,1, 22000
+Content  ,1, 15000
+Content  ,1, 15000
+Content  ,1, 15000
+Content  ,1,  1000
+
+{ Videography }
+
+Animation ,1,  3000
+Animation ,1,  2000
+Animation ,1,  3000
+Animation ,1,  1000
+Animation ,1,  1500
+Animation ,1,  1000
+Animation ,3, 10500
+Animation ,1,  5000
+Animation ,3, 18000
+Animation ,1,  5000
+Animation ,1,  5000
+Animation ,1,  1000
+Animation ,2,  6000
+Animation ,1, 10000
+Animation ,1,  5000
+Animation ,1,  1000
+Animation ,1,  3000
+Animation ,1, 15000
+Animation ,1,  1000
+Animation ,1,  5000
+Animation ,1,  1000
+Animation ,1,  1500
+Animation ,1,  3000
+Animation ,1,  3000
+
+Editing ,1,    2500
+Editing ,23, 114500
+Editing ,119,391200
+Editing ,4,    8000
+Editing ,1,    2500
+Editing ,1,    1000
+Editing ,1,    3000
+Editing ,1,    1500
+
+Creation  ,1,  1000
+Creation  ,1,  1000
+Creation  ,1, 10000
+Creation  ,1,  3000
+Creation  ,1,  6000
+Creation  ,1,  5000
+Creation  ,1,  5000
+Creation  ,9,122000
+Creation  ,1,  5000
+Creation  ,1,  6000
+Creation  ,1,  4000
+Creation  ,1,  5000
+Creation  ,1,  3000
+Creation  ,1,  5000
+Creation  ,1,  2000
+Creation  ,1,  1000
+Creation  ,1, 12000
+Creation  ,1,  2000
+Creation  ,1, 12000
+Creation  ,1,  2000
+Creation  ,1,  6000
+Creation  ,1,  5000
+Creation  ,2,  4000
+Creation  ,2, 10000
+Creation  ,1,  1000
+Creation  ,1, 10000
+Creation  ,1,  2000
+
+{ Trainer }
+
+Teaching , 1,  10000
+Teaching ,41, 227000
+Teaching ,22,  92500
+Teaching ,1,    5000
+Teaching ,1,    2000
+Teaching ,1,   12000
+Teaching ,1,    3000
+Teaching ,1,    5000
+Teaching ,1,    8000
+Teaching ,1,   18000
+Teaching ,1,    2500
+Teaching ,1,    2000
+Teaching ,1,    2000
+Teaching ,1,   20000
+Teaching ,1,    7000
+Teaching ,1,   20000
+Teaching ,1,    3500
+Teaching ,1,    5000
+Teaching ,1,    3000
+Teaching ,1,    3000
+Teaching ,1,    2000
+Teaching ,1,    5000
+Teaching ,1,    3000
+Teaching ,1,    4000
+Teaching ,1,    1000
+Teaching ,1,    4000
+Teaching ,1,    1000
+Teaching ,1,   10000
+Teaching ,1,    1000
+Teaching ,1,   10000
+Teaching ,1,    4500
+Teaching ,1,    3000
+Teaching ,1,   15000
+Teaching ,1,   18000
+Teaching ,1,   20000
+Teaching ,1,    1000
+
+{ Ops & Management }
+
+Management ,1,  7000
+Management ,1, 10000
+Management ,1,  1000
+Management ,1, 10000
+Management ,1,  7000
+Management ,1,  1000
+Management ,1,  5000
+Management ,7, 20750
+Management ,3, 21000
+Management ,1, 10000
+Management ,2, 11000
+Management ,1,  5000
+Management ,1,  2500
+Management ,1,  2000
+Management ,1,  2500
+Management ,1,  1000
+Management ,1, 10000
+Management ,1,  2000
+Management ,1,  1000
+Management ,1,  5000
+Management ,1, 10000
+Management ,1,  2000
+Management ,1,  1000
+Management ,1,  5000
+Management ,1,  5000
+Management ,1, 10000
+Management ,1,  3000
+Management ,2,  5000
+Management ,1,  2000
+Management ,1, 12000
+Management ,1,  8000
+Management ,1,  5000
+Management ,1,  5000
+Management ,1,  3000
+Management ,1,  3000
+Management ,1,  1000
+Management ,1, 30000
+Management ,11,65000
+Management ,4, 20000
+Management ,1,  1000
+Management ,1,  7000
+Management ,1,  5000
+Management ,8,  9000
+Management ,1,  5000
+Management ,1,  2000
+Management ,1,  3000
+Management ,3,  1500
+Management ,1,  1000
+Management ,6,  8500
+Management ,1,  1000
+Management ,2, 12000
+Management ,1,  2000
+Management ,1,  3000
+Management ,1,  1000
+Management ,1,  1000
+
+Operations ,145, 811600
+Operations ,1,     5000
+Operations ,1,     3000
+Operations ,1,    15000
+Operations ,1,     8000
+Operations ,1,     3000
+Operations ,1,    18000
+Operations ,1,     3000
+Operations ,1,     4000
+Operations ,1,     3000
+Operations ,1,     1000
+Operations ,1,     5000
+Operations ,1,     3000
+Operations ,1,     2500
+Operations ,1,     2000
+Operations ,1,    15000
+Operations ,1,     3000
+Operations ,1,     2000
+Operations ,1,    12000
+Operations ,1,     4000
+Operations ,1,     8000
+Operations ,1,     6000
+Operations ,1,     3000
+Operations ,1,     5000
+Operations ,1,    20000
+Operations ,1,     1000
+Operations ,1,     5000
+Operations ,1,    10000
+Operations ,1,     2000
+Operations ,1,     8000
+Operations ,1,     3000
+Operations ,1,     4000
+Operations ,1,     2000
+Operations ,1,    10000
+Operations ,1,    10000
+
+{ Presenter }
+
+Presenter , 1,  12000
+Presenter , 1,   3000
+Presenter , 3,   9500
+Presenter , 3,  17000
+Presenter , 1,   2000
+Presenter , 1,   1000
+Presenter , 1,   1500
+Presenter , 2,   6000
+Presenter , 1,   4000
+Presenter , 1,  10000
+Presenter , 1,   2000
+Presenter , 1,   1000
+Presenter , 1,  10000
+Presenter , 1,   2500
+Presenter , 1,  14000
+
+Transcription , 1, 10000
+Transcription , 1, 10000
+Transcription , 1,  2000
+
+Voice over , 3,  3000
+Voice over , 3, 10000
+voice over , 1,  2500
+voice over , 1,  5000
+Voice over , 1,  6000
+Voice over , 1,  3000
+Voice over , 1,  8000
+Voice over , 2,  8500
+Voice over , 1, 15000
+
+{ Engineering }
+
+Engineering ,6, 16500
+Engineering ,1,  2000
+Engineering ,1,  5000
+Engineering ,2, 10000
+Engineering ,1,  8000
+Engineering ,1, 10000
+Engineering ,1,  6000
+Engineering ,1, 25000
+Engineering ,1,  1000
+Engineering ,1,  8000
+Engineering ,2, 10000
+Engineering ,1,  1000
